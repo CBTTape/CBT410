@@ -1,0 +1,17 @@
+2023-04-03 00:06:40.869284 - Initialized conversion of CBT410
+2023-04-03 00:06:41.204933 - Received CBT.V504.FILE410.PDS from FILE410.XMI 
+2023-04-03 00:06:41.206600 - Found MXI.bin containing application/octet-stream, moved to PDS/MXI
+2023-04-03 00:06:41.209083 - Found MXILLIX1.bin containing application/octet-stream, moved to PDS/MXILLIX1
+2023-04-03 00:06:41.210326 - Found MXIMEN00.bin containing application/octet-stream, moved to PDS/MXIMEN00
+2023-04-03 00:06:41.211461 - Found MXIREXX.bin containing application/octet-stream, moved to PDS/MXIREXX
+2023-04-03 00:06:41.213030 - Found MXISECTB.bin containing application/octet-stream, moved to PDS/MXISECTB
+2023-04-03 00:06:41.214301 - Found MXISECX1.bin containing application/octet-stream, moved to PDS/MXISECX1
+2023-04-03 00:06:41.215602 - Found MXISERV.bin containing application/octet-stream, moved to PDS/MXISERV
+2023-04-03 00:06:41.216726 - Found MXISOCKC.bin containing application/octet-stream, moved to PDS/MXISOCKC
+2023-04-03 00:06:41.217806 - Found MXISOCKS.bin containing application/octet-stream, moved to PDS/MXISOCKS
+2023-04-03 00:06:41.218775 - Found MXITSF.bin containing application/octet-stream, moved to PDS/MXITSF
+2023-04-03 00:06:41.219954 - Found MXIU83.bin containing application/octet-stream, moved to PDS/MXIU83
+2023-04-03 00:06:41.220993 - Found MXIU84.bin containing application/octet-stream, moved to PDS/MXIU84
+2023-04-03 00:06:41.221923 - Found MXIXPT00.bin containing application/octet-stream, moved to PDS/MXIXPT00
+2023-04-03 00:06:41.222879 - Found TXI.bin containing application/octet-stream, moved to PDS/TXI
+2023-04-03 00:06:41.225565 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
